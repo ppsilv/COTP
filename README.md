@@ -1,3 +1,5 @@
+I'll give a try to this works, using it in esp8266
+
 # COTP
 
 This module is part of a chain of OTP libraries all written in different languages. See https://github.com/OTPLibraries
